@@ -22,4 +22,6 @@ print(remainder)
 
 add = 1
 add += 1
-
+add -= 1
+add *= 4
+add /= 2
