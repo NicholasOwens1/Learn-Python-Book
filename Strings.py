@@ -17,3 +17,6 @@ print(new_bench)
 # Assign a variable to a sum
 sum = 4 + 4
 
+remainder = 9 % 3
+print(remainder)
+
