@@ -26,6 +26,12 @@ add -= 1
 add *= 4
 add /= 2
 
-
+# concatenate strings
 fusion = "goku" + "vegeta"
 print(fusion)
+
+# if statement
+
+sky = "blue"
+if sky == "blue":
+    print("The sky is blue")
