@@ -46,3 +46,9 @@ if 2 + 2 > 3:
 
 if 5 != 2:
     print("the answer is correct")
+
+# conditional statements
+if 10 == 10:
+    print("the answer is correct")
+else:
+    print("the answer is wrong")
