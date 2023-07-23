@@ -43,3 +43,6 @@ if 2 + 2 == 4:
 
 if 2 + 2 > 3:
     print("the answer is correct")
+
+if 5 != 2:
+    print("the answer is correct")
