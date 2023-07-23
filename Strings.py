@@ -35,3 +35,11 @@ print(fusion)
 sky = "blue"
 if sky == "blue":
     print("The sky is blue")
+
+if 2 + 2 == 4:
+    print("the answer is correct")
+
+# other operators
+
+if 2 + 2 > 3:
+    print("the answer is correct")
