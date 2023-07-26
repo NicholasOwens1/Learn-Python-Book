@@ -52,3 +52,16 @@ if 10 == 10:
     print("the answer is correct")
 else:
     print("the answer is wrong")
+
+
+game_price = 40
+# elif statements
+if game_price == 59.99:
+    print("the price is right")
+elif game_price > 59.99:
+        print("the price is too high")
+else:
+        print("the game is on sale")
+
+if speed > 30 and velocity > 20:
+    comment = "that's fast!"
