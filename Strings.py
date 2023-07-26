@@ -63,5 +63,14 @@ elif game_price > 59.99:
 else:
         print("the game is on sale")
 
+# test sets of conditions
 if speed > 30 and velocity > 20:
     comment = "that's fast!"
+
+if score > 50 or time < 30:
+    status = "pass"
+
+# nested if statements
+if c == d:
+    if a == b:
+        print("a equals b")
