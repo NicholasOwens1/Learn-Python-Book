@@ -74,3 +74,9 @@ if score > 50 or time < 30:
 if c == d:
     if a == b:
         print("a equals b")
+
+# this is a comment
+'''
+Multi line comment
+
+'''
