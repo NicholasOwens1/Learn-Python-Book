@@ -80,3 +80,10 @@ if c == d:
 Multi line comment
 
 '''
+
+# lists
+
+mon_1 = "infernape"
+mon_2 = "charizard"
+mon_3 = "empoleon"
+
