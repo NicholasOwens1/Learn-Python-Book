@@ -64,16 +64,20 @@ else:
         print("the game is on sale")
 
 # test sets of conditions
-if speed > 30 and velocity > 20:
-    comment = "that's fast!"
+# speed = 40
+# velocity = 25
 
-if score > 50 or time < 30:
-    status = "pass"
+# if speed > 30 and velocity > 20:
+#     comment = "that's fast!"
+#
+# if score > 50 or time < 30:
+#     status = "pass"
+
 
 # nested if statements
-if c == d:
-    if a == b:
-        print("a equals b")
+# if c == d:
+#     if a == b:
+#         print("a equals b")
 
 # this is a comment
 '''
@@ -86,4 +90,6 @@ Multi line comment
 mon_1 = "infernape"
 mon_2 = "charizard"
 mon_3 = "empoleon"
+
+print("mon 2 is " + mon_2)
 
